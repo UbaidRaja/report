@@ -59,6 +59,8 @@ Once the code is available this could be run using the following maven command
 There are a couple of Test cases that will run with this command.
 
 * If you want to run this project as a Java application, goto App.java inside com.wcf.report package and run it, it will ask for Year as an input
+
+Documentation is generated and can be viewed inside doc folder on the root.
  
 # Clarifications
 The original data present in the CellPhoneUsageByMonth.csv had date column, so I have partitioned data on these following columns
